@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #000; /* خلفية كحلة باش يبان الكود */
+  color: white;
+}
